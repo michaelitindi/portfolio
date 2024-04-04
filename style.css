@@ -53,4 +53,20 @@ body{
     margin-bottom: 15px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 70px;
+}
+
+.project img{
+    width: 400px;
+    height: 300px;
+    border: 2px solid ;
+     
+}
+.aboutme{
+    margin-bottom: 50px;
+}
+
+.contact{
+    text-align: center;
+    padding: 10px;
 }
