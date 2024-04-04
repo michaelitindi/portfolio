@@ -14,3 +14,6 @@ Demo: https://michaelitindi.github.io/portfolio/
 ## Setup
 Clone the code here: https://github.com/michaelitindi/portfolio.git
 Tools needed are Code editor and VCS
+
+## License
+MIT License
