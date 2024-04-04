@@ -25,6 +25,10 @@ body{
     
 }
 
+.nav .about-link{
+    scroll-behavior: smooth;
+}
+
 .intro{
     display: flex;
     justify-content: space-between;
